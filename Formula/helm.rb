@@ -1,8 +1,8 @@
 class Helm < Formula
-  desc "TUI fleet manager + agent-driven shared tmux shells"
+  desc "Share a tmux session between you and an AI agent, local or ssh-remote"
   homepage "https://github.com/crodorg/helm"
   url "https://github.com/crodorg/helm/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "14dd28ec0e657eb992c23042db9758d36f38bc5dc76e5e5024af4e41052bd40f"
+  sha256 "530452a51ce51198fbb67d4f669330ba32733d13b842595cc9bfc11dd68881ac"
   license "MIT"
   version "0.1.0"
 
