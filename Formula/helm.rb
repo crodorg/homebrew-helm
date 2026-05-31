@@ -1,10 +1,10 @@
 class Helm < Formula
   desc "Share a tmux session between you and an AI agent, local or ssh-remote"
   homepage "https://github.com/crodorg/helm"
-  url "https://github.com/crodorg/helm/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "530452a51ce51198fbb67d4f669330ba32733d13b842595cc9bfc11dd68881ac"
+  url "https://github.com/crodorg/helm/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "1bb7515b2e5cd287ae8fba24f53cfe199dfe76339f40b2433c609a7801feede7"
   license "MIT"
-  version "0.1.0"
+  version "0.1.1"
 
   depends_on "rust" => :build
   depends_on "tmux"
